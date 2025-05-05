@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mario-andreschak-mcp-image-recognition-badge.png)](https://mseep.ai/app/mario-andreschak-mcp-image-recognition)
+
 # MCP Image Recognition Server
 
 An MCP server that provides image recognition capabilities using Anthropic and OpenAI vision APIs. Version 0.1.2.
